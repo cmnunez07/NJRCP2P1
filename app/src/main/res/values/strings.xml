@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NJRCP2P1</string>
+    <string name="radio">Manejo de Radios de Seleccion</string>
+    <string name="seleccion">Selecciona tu carrera</string>
+    <string name="carrera1">ISC</string>
+    <string name="carrera2">ITC\'S</string>
+    <string name="carrera3">Ing Ambiental</string>
+    <string name="carrera4">Lic.Gastronomia</string>
+    <string name="mensaje">mensaje</string>
+    <string name="uso">Uso de Internet</string>
+    <string name="chCasa">Casa</string>
+    <string name="chEscuela">Escuela</string>
+    <string name="chtrabajo">Trabajo</string>
+</resources>
